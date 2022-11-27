@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmarquesaj
 - 🌱 I’m currently learning Computer Science
-- 📫 5538984331917
+- 📫 5538984177956
 
 <!---
 gmarquesaj/gmarquesaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
